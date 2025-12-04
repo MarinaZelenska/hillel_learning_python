@@ -107,6 +107,9 @@ count(x)    → counts how many times x appears
 index(x)    → returns index of first x
 sort()      → sorts the list
 reverse()   → reverses the list
+extend() -> added one list to another list
+copy() -> copy list
+sorted() -> sort without change object
 """
 
 print("\n=== Basic List Methods ===")
